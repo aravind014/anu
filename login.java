@@ -5,6 +5,7 @@ public static void main()
  int c = 0;
 
  c = a+b;
+ c=a-b;
 system.out.println("The sum is :" +c);
 }
 
